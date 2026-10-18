@@ -35,7 +35,6 @@ Fast-paced arena combat against increasingly dangerous enemies.
 - Item and upgrade rewards.
 
 
-
 ![Boss Fight Gameplay](media/BossFightCombat.gif)
 
 ### Software Module Grid
@@ -47,10 +46,6 @@ A modular build customization system built around a 6x6 installation grid.
 - Customize builds through module placement.
 - Organize available modules using sorting controls.
 - Modify gameplay and combat statistics through installed software.
-
-### Software Module Grid
-
-![Software Module Grid](media/SoftwareModuleGrid.gif)
 
 
 ### Items and Relics
@@ -71,9 +66,6 @@ A risk-and-reward system introducing additional decisions during gameplay.
 - Permanent corruption penalties from certain interactions.
 - Upgrade trade-offs that improve one statistic while reducing another.
 
-### Corrupted Terminal
-
-![Corrupted Terminal](media/CorruptedTerminal.gif)
 
 ### Weapon Evolution
 
@@ -81,9 +73,6 @@ Weapons can gain additional capabilities through dedicated evolution choices.
 
 Evolution paths alter weapon behavior, offering different approaches to combat and further progression.
 
-### Weapon Evolution
-
-![Weapon Evolution](media/WeaponEvolution.gif)
 
 ### System Market
 
@@ -104,13 +93,7 @@ Tracked information includes:
 - Weapon-specific performance.
 - Items and relics acquired.
 
-### System Build
-
-![Build Overview](media/BuildTab.png)
-
-### End-of-Run Statistics
-
-![Run Statistics](media/EndRunResults.png)
+)
 
 ## Development
 
