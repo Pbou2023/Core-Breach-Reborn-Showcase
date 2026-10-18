@@ -34,7 +34,7 @@ Fast-paced arena combat against increasingly dangerous enemies.
 - Enemy encounters, including minibosses and bosses.
 - Item and upgrade rewards.
 
-### Gameplay Demonstration
+
 
 ![Boss Fight Gameplay](media/BossFightCombat.gif)
 
