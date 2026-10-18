@@ -47,6 +47,7 @@ A modular build customization system built around a 6x6 installation grid.
 - Organize available modules using sorting controls.
 - Modify gameplay and combat statistics through installed software.
 
+![Module Grid](media/SoftwareModuleGrid.gif)
 
 ### Items and Relics
 
@@ -66,6 +67,7 @@ A risk-and-reward system introducing additional decisions during gameplay.
 - Permanent corruption penalties from certain interactions.
 - Upgrade trade-offs that improve one statistic while reducing another.
 
+![Corrupted Terminal](media/CorruptedTerminal.gif)
 
 ### Weapon Evolution
 
@@ -73,12 +75,15 @@ Weapons can gain additional capabilities through dedicated evolution choices.
 
 Evolution paths alter weapon behavior, offering different approaches to combat and further progression.
 
+![Weapon Evolution](media/WeaponEvolution.gif)
 
 ### System Market
 
 An upgrade market between stages, allowing players to purchase software and other improvements.
 
 Available upgrades cover multiple categories, including damage, defense, utility, and miscellaneous effects.
+
+![System Market](media/SystemMarket.gif)
 
 ### Statistics and Run Tracking
 
@@ -94,6 +99,10 @@ Tracked information includes:
 - Items and relics acquired.
 
 )
+
+![System Build](media/BuildTab.png)
+
+![Run Summary](media/EndRunResults.png)
 
 ## Development
 
